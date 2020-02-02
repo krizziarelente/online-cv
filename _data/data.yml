@@ -7,41 +7,39 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Krizzia Relente
+    tagline: Cloud DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: relente_krizzia@rocketmail.com
+    phone: +63 917 7023325
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: krizziarelente
+    github: krizziarelente
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Filipino
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: sleeping
         link:
 
-      - item: Snowboarding
+      - item: coding
         link:
 
-      - item: Cooking
+      - item: Collecting 3D Buildings
         link:
 
 career-profile:
